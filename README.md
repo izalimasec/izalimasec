@@ -1,6 +1,6 @@
 ### Olá, eu sou a Iza Lima. 👋
 
-Red Team Enthusiast | Cybersecurity Researcher | Focused on Adversary Emulation & Technical Documentation
+Analista de Sistemas | Infraestrutura | Implementação de ITSM | Segurança da Informação
 
 Minha trajetória na tecnologia é marcada pela solidez técnica e pela evolução constante, saindo da camada física para a arquitetura de defesa.
 
