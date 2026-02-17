@@ -25,9 +25,14 @@ Como estudante de Cibersegurança (eJPT), aplico a visão ofensiva para fortalec
 
 Minha filosofia:
 
-Unir a estabilidade da infraestrutura tradicional com as melhores práticas de proteção de dados e governança.
+## 🗄️ Topologia de Conteúdo (O Que Você Encontra Aqui)
 
-Opero com mentalidade preventiva e analítica.
+Meu GitHub não é apenas um repositório de código, é o **Log de Auditoria** da minha evolução analítica. Todo o meu material está sendo consolidado para a minha futura Base de Conhecimento (SSG/Hugo), dividida nas seguintes zonas de impacto:
+
+* **[ 🛡️ SecOps & Blue Team Labs ]:** Documentação de chão de fábrica. Arquitetura de perímetros, hardening de infraestrutura, análise de tráfego (WireShark/Parrot OS) e implementação de SIEM/SOC. Onde o caos legado vira ordem auditável.
+* **[ ⚔️ Red Team Journey ]:** Meu repositório ativo de Segurança Ofensiva. Estudar a anatomia do ataque (eJPT/Pentest) é o requisito para forjar a defesa perfeita.
+* **[ 🧠 Racionalismo Integrativo (Artigos) ]:** A interseção entre a máquina e o humano. Ensaios em formato Markdown migrados do Medium, abordando neurodivergência corporativa, GRC (Governança) e a filosofia de sistemas sob a ótica de uma Arquiteta de Defesa.
+
 
 Lemas:
 
