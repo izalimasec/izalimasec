@@ -21,7 +21,9 @@ Como Analista de Sistemas com foco em Governança e Segurança, lidero frentes c
 🔐 O Diferencial (Security-Driven):
 
 Não atuo apenas no suporte reativo. Incorporo a mentalidade SecOps e Zero Trust nas rotinas diárias.
-Como estudante de Cibersegurança (eJPT), aplico a visão ofensiva para fortalecer a defesa: entendo como um ambiente pode ser atacado para melhor protegê-lo.
+Como estudante de Cibersegurança (Security+ da Comptia), aplico a visão ofensiva para fortalecer a defesa: entendo como um ambiente pode ser atacado para melhor protegê-lo.
+
+Estou fazendo a Cyber Defense Training: Practical SOC Analyst pela IBSEC - Brazilian Institute of Cybersecurity
 
 Minha filosofia:
 
