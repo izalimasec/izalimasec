@@ -1,47 +1,37 @@
-### Olá, eu sou a Iza Lima. 👋
+### # Hi, I'm Iza Lima. 👋
 
-Analista de Sistemas | Infraestrutura | Implementação de ITSM | Segurança da Informação
+**Infrastructure & Systems Analyst | AI Data Engineering Student | Focus on Automation & Pipelines**
 
-Minha trajetória na tecnologia é marcada pela solidez técnica e pela evolução constante, saindo da camada física para a arquitetura de defesa.
+My technology journey is defined by over 13 years of hands-on experience organizing complex environments and ensuring the technological foundation of operations runs with stability and precision. I built my career transitioning from the physical layer of hardware and servers to the logical structuring of systems. 
 
-Com mais de 12 anos de experiência prática (hands-on), iniciei minha base no Hardware e Infraestrutura. Esse entendimento profundo da Camada Física me permite hoje realizar diagnósticos sistêmicos precisos, identificando a causa raiz de problemas onde a maioria vê apenas o sintoma.
+Currently, I am directing all this structural background into the data ecosystem. My main focus now is **AI Data Engineering**. I firmly believe that the best systems are those that operate silently and predictably behind the scenes.
 
-🚀 Atuação Estratégica (Projetos Recentes):
+### 🚀 Strategic Focus & Current Studies:
+My technical transition involves building robust pipelines, system integration, and structured modeling to support Large Language Models (LLMs). My study lab focuses on:
+*   **Python for Data:** Manipulation, cleaning, and automation (Pandas, PyArrow).
+*   **Databases & Advanced SQL:** Complex queries, Data Lakes/Warehouses structuring.
+*   **Pipelines & Orchestration:** Automated ETL (Extract, Transform, Load) flows.
+*   **Vector Databases:** Structured storage of embeddings for Artificial Intelligence applications.
 
-Como Analista de Sistemas com foco em Governança e Segurança, lidero frentes críticas para a maturidade tecnológica do negócio:
+### ⚙️ The Edge (Predictability & Logic):
+I don't see Artificial Intelligence as magic, but as probability calculations that depend on a flawless data pipeline. I use my foundation of over a decade dealing with the rigor of infrastructure to design fail-safe automations. I prefer clean code, rigorous documentation, and logical problem-solving over unpredictability.
 
-- Governança de Identidade (IAM): Execução de saneamento profundo em ambientes Active Directory e Microsoft 365, visando Compliance, integridade de logs para auditoria forense e mitigação de riscos jurídicos.
+---
 
-- Gestão de Conhecimento e Continuidade: Criação e liderança de Squads de T.I. focadas em documentação de processos e mitigação do Bus Factor, garantindo que a inteligência do negócio não se perca.
+### 🗄️ Content Topology (What You'll Find Here)
 
-- Implementação de ITSM: Liderança na implantação do ecossistema GLPI para gestão de ativos e chamados, focada em rastreabilidade e eficiência operacional.
+My GitHub is the auditable log of my analytical and technical evolution in Data Engineering. The repositories are organized into the following areas:
 
-- Security Culture: Desenvolvimento de playbooks e ações de conscientização de usuários, integrando a "Cultura de Segurança" ao dia a dia da operação.
+*   **[ 🐍 Python Data Manipulation ]**: Scripts focused on the extraction, processing, and consolidation of raw files (CSV, JSON, Parquet) for analytical bases.
+*   **[ 📊 Advanced SQL & Modeling ]**: My query structures, database optimization, views, and CTEs.
+*   **[ ⚙️ Data Pipelines & Automation ]**: Future projects involving flow orchestration and data extraction automation.
+*   **[ 🤖 AI Data Engineering ]**: Integration lab involving APIs, Vector Databases, and data preparation for LLMs.
+*   **[ 🧠 Integrative Rationalism (Articles) ]**: The intersection between machine and human. Markdown essays addressing corporate neurodivergence, systemic logic, and the philosophy of technology from the perspective of predictability.
 
-🔐 O Diferencial (Security-Driven):
+---
 
-Não atuo apenas no suporte reativo. Incorporo a mentalidade SecOps e Zero Trust nas rotinas diárias.
-Como estudante de Cibersegurança (Security+ da Comptia), aplico a visão ofensiva para fortalecer a defesa: entendo como um ambiente pode ser atacado para melhor protegê-lo.
-
-Estou fazendo a Cyber Defense Training: Practical SOC Analyst pela IBSEC - Brazilian Institute of Cybersecurity
-
-Minha filosofia:
-
-## 🗄️ Topologia de Conteúdo (O Que Você Encontra Aqui)
-
-Meu GitHub não é apenas um repositório de código, é o **Log de Auditoria** da minha evolução analítica. Todo o meu material está sendo consolidado para a minha futura Base de Conhecimento (SSG/Hugo), dividida nas seguintes zonas de impacto:
-
-* **[ 🛡️ SecOps & Blue Team Labs ]:** Documentação de chão de fábrica. Arquitetura de perímetros, hardening de infraestrutura, análise de tráfego (WireShark/Parrot OS) e implementação de SIEM/SOC. Onde o caos legado vira ordem auditável.
-* **[ ⚔️ Red Team Journey ]:** Meu repositório ativo de Segurança Ofensiva. Estudar a anatomia do ataque (eJPT/Pentest) é o requisito para forjar a defesa perfeita.
-* **[ 🧠 Racionalismo Integrativo (Artigos) ]:** A interseção entre a máquina e o humano. Ensaios em formato Markdown migrados do Medium, abordando neurodivergência corporativa, GRC (Governança) e a filosofia de sistemas sob a ótica de uma Arquiteta de Defesa.
-
-
-Lemas:
-
-Quid pro quo: Trocas justas, ética e mérito técnico.
-Saketh t'khasi-khutau (A honra está em servir): A tecnologia deve servir, proteger e facilitar a vida das pessoas.
-
-Qapla'! 🖖🏼
+**Operational Philosophy:** 
+Transforming informational chaos into structured data. Predictable systems ensure peaceful minds. Technology must execute its function behind the scenes with absolute precision.
 
 ##
 
